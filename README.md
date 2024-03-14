@@ -7,7 +7,7 @@ import requests
 import json
 
 # 設定 Azure OpenAI 端點 URL
-url = "https://ntnu-ml.openai.azure.com/openai/deployments/ntnu-ml-gpt4-32k/chat/completions?api-version=2024-02-15-preview"
+url = "https://data-mining-openai.openai.azure.com/"
 
 # 設定 API 金鑰
 api_key = "YOUR_API_KEY"
