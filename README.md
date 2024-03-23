@@ -1,6 +1,6 @@
 # Data-mining
 資料探勘
-## Lab 1
+## [Lab 1](https://youtu.be/q3yw_gsnAZE)
 運用python嘗試連線Azure OpenAI做出推薦系統
 ```python
 import requests
